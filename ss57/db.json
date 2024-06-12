@@ -1,15 +1,6 @@
 {
   "students": [
     {
-      "id": 1,
-      "student_name": "Hiển",
-      "email": "Hien@gmail.com",
-      "address": "Hà Nam",
-      "phone": "1234567891",
-      "status": false,
-      "created_at": "2024-06-11T11:00:00Z"
-    },
-    {
       "id": 2,
       "student_name": "Hoàng",
       "email": "Hoang@gmail.com",
@@ -52,6 +43,24 @@
       "phone": "0987654322",
       "status": true,
       "id": 6
+    },
+    {
+      "id": 8,
+      "student_name": "Huy",
+      "email": "hienklo1@gmail.com",
+      "address": "số 23 ngõ 31 nguyễn ",
+      "phone": "0***890614",
+      "status": false,
+      "created_at": "2024-06-12T02:08:44.013Z"
+    },
+    {
+      "id": 9,
+      "student_name": "Huyền",
+      "email": "admin@gmail.com",
+      "address": "HCM",
+      "phone": "0990710273",
+      "status": false,
+      "created_at": "2024-06-12T02:11:32.801Z"
     }
   ]
 }
