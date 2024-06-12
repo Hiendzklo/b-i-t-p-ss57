@@ -5,8 +5,8 @@ import Bt3 from './components/Bt3'
 import Bt4 from './components/Bt4'
 import Bt5 from './components/Bt5'
 import Bt6 from './components/Bt6'
-import StudentList from './components/Bt7+8+9+10/StudentList'
-import Loading from './components/Bt7+8+9+10/Loading'
+import StudentList from './components/Bt7+8+9+10+11+12/StudentList'
+import Loading from './components/Bt7+8+9+10+11+12/Loading'
 
 export default function App() {
   return (
