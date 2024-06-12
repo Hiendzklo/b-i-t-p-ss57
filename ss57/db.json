@@ -1,0 +1,57 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "student_name": "Hiển",
+      "email": "Hien@gmail.com",
+      "address": "Hà Nam",
+      "phone": "1234567891",
+      "status": false,
+      "created_at": "2024-06-11T11:00:00Z"
+    },
+    {
+      "id": 2,
+      "student_name": "Hoàng",
+      "email": "Hoang@gmail.com",
+      "address": "Hà Nam",
+      "phone": "1234567891",
+      "status": false,
+      "created_at": "2024-06-11T11:00:00Z"
+    },
+    {
+      "id": 3,
+      "student_name": "Vũ",
+      "email": "Vu@gmail.com",
+      "address": "Hà Nam",
+      "phone": "1234567891",
+      "status": false,
+      "created_at": "2024-06-11T11:00:00Z"
+    },
+    {
+      "id": 4,
+      "student_name": "Hồng Anh",
+      "email": "HongAnh@gmail.com",
+      "address": "Thái Nguyên",
+      "phone": "1234567893",
+      "status": false,
+      "created_at": "2024-06-11T13:00:00Z"
+    },
+    {
+      "id": 5,
+      "student_name": "Huyền Thư",
+      "email": "HuyenThu@gmail.com",
+      "address": "Lạng Sơn",
+      "phone": "1234567894",
+      "status": true,
+      "created_at": "2024-06-11T14:00:00Z"
+    },
+    {
+      "student_name": "Nguyễn Văn B",
+      "email": "nguyenvanb@gmail.com",
+      "address": "Hà Nội",
+      "phone": "0987654322",
+      "status": true,
+      "id": 6
+    }
+  ]
+}
